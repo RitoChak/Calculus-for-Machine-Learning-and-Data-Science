@@ -24,6 +24,9 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
+- [Week 3 :](https://github.com/RitoChak/Calculus-for-Machine-Learning-and-Data-Science/tree/26d72ae4ea76ec20778c1cccf707ca93cdb2fc73/Week%203)
+  - [Programming Assignment: Neural Network with Two Layers](https://github.com/RitoChak/Calculus-for-Machine-Learning-and-Data-Science/blob/26d72ae4ea76ec20778c1cccf707ca93cdb2fc73/Week%203/C2_W3_Assignment.ipynb)
+
 ### Certificate Of Completion : [Click here](https://coursera.org/share/1d58d966843d394d66c86c245a2d15bb)
 
 <hr/>
