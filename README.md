@@ -24,6 +24,6 @@ Mathematics for Machine Learning and Data Science Specialization offered by deep
 
 <br/>
 
-### Certificate Of Completion : [Click here]
+### Certificate Of Completion : [Click here](https://coursera.org/share/1d58d966843d394d66c86c245a2d15bb)
 
 <hr/>
